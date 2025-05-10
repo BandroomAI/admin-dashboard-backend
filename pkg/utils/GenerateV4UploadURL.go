@@ -54,4 +54,3 @@ func GenerateV4UploadURL(bucketName, objectName, contentType string) (string, er
 
 	return signedURL, nil
 }
-

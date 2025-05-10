@@ -1,8 +1,6 @@
-ggVGy to copy all on vim
-
 ## Create database
 
-CREATE DATABASE bandroom_cms;
+CREATE DATABASE database_name;
 
 ## Create tables
 
@@ -80,5 +78,3 @@ curl -X POST http://localhost:8080/api/courses \
 # gcloud auth login
 
 gcloud auth application-default login
-
-hello
